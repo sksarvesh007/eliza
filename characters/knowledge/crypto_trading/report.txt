@@ -1,0 +1,30 @@
+Crypto Trading Report
+1. Bitcoin (BTC) - Swing Trade on Binance
+I bought 0.05 BTC at $42,000 when the market showed a bullish reversal pattern on the 4-hour chart. My strategy was based on technical analysis, specifically using support and resistance levels and the Relative Strength Index (RSI). I planned to sell at $46,000, targeting a 9.5% profit. However, due to a sudden market dip caused by regulatory news, BTC briefly fell to $40,500, hitting my stop-loss at $40,800. This resulted in a loss of $60.
+
+2. Ethereum (ETH) - Scalping on Bybit
+I took advantage of high volatility in ETH by placing a long trade at $2,850 with 5x leverage. Using a scalping strategy, I exited within 15 minutes at $2,875, securing a $125 profit after fees. My decision was driven by a breakout from a consolidation zone, combined with high trading volume.
+
+3. Solana (SOL) - Spot Trade on KuCoin
+I bought 30 SOL at $95 each after a strong upward trend following positive ecosystem developments. The idea was to hold for a mid-term gain, expecting SOL to reach $110-$120. However, a broader market correction pulled the price down to $88, forcing me to sell at $90 to cut further losses. This resulted in a $150 loss.
+
+4. Dogecoin (DOGE) - News-Based Trade on OKX
+I purchased 5,000 DOGE at $0.12 after rumors of a Tesla payment integration surfaced. The price quickly surged to $0.15, where I decided to sell half of my holdings, locking in a $150 profit. However, the news turned out to be false, and the price dipped back to $0.11, leading to a $50 loss on my remaining position. My net profit from this trade was $100.
+
+5. Avalanche (AVAX) - Futures Trade on Binance
+I shorted 10 AVAX at $38 with 3x leverage, expecting a rejection at a key resistance level. The price indeed dropped to $34, where I took profit, securing a $120 gain. My strategy relied on trendline analysis and volume indicators.
+
+Overall Trading Performance
+Total Profits: $345
+Total Losses: $210
+Net Profit: $135
+
+Lessons Learned
+Scalping with leverage can be profitable, but it's crucial to manage risk effectively.
+Swing trading is effective, but external news and market sentiment can disrupt strategies.
+Cutting losses early is better than hoping for a rebound.
+News-based trades can be risky, but quick decision-making helps secure profits.
+Overall, I ended with a small profit, reinforcing the importance of risk management, technical analysis, and market awareness.
+
+
+
